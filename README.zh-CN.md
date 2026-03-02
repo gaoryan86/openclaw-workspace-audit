@@ -1,4 +1,4 @@
-<![CDATA[<!-- SEO: openclaw-workspace-audit – OpenClaw 技能，用于审计、优化和清理 AI 代理工作区文件。减少 token 浪费，修复冗余，检测 AGENTS.md、SOUL.md、USER.md、TOOLS.md、MEMORY.md 中的冲突。 -->
+<!-- SEO: openclaw-workspace-audit – OpenClaw 技能，用于审计、优化和清理 AI 代理工作区文件。减少 token 浪费，修复冗余，检测 AGENTS.md、SOUL.md、USER.md、TOOLS.md、MEMORY.md 中的冲突。 -->
 
 <div align="center">
 
@@ -230,4 +230,3 @@ MIT License，见 [`LICENSE`](./LICENSE)
 **openclaw-workspace-audit** — 让你的 AI 代理大脑保持干净高效。
 
 </div>
-]]>

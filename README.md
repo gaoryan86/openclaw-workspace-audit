@@ -1,4 +1,4 @@
-<![CDATA[<!-- SEO: openclaw-workspace-audit – OpenClaw skill for auditing, optimizing, and cleaning up AI agent workspace files. Reduce token waste, fix redundancy, detect conflicts in AGENTS.md, SOUL.md, USER.md, TOOLS.md, MEMORY.md. -->
+<!-- SEO: openclaw-workspace-audit – OpenClaw skill for auditing, optimizing, and cleaning up AI agent workspace files. Reduce token waste, fix redundancy, detect conflicts in AGENTS.md, SOUL.md, USER.md, TOOLS.md, MEMORY.md. -->
 
 <div align="center">
 
@@ -229,4 +229,3 @@ MIT License. See [`LICENSE`](./LICENSE).
 **openclaw-workspace-audit** — Keep your AI agent's brain clean and efficient.
 
 </div>
-]]>
